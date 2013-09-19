@@ -1,0 +1,8 @@
+TO DO:
+-> Testar e corrigir bugs
+-> if we get enough free time (after finishing minimax), make 'Avancar' work
+
+BUGS:
+-> Quando a IA vai perder ela passa a vez sem poder, para evitar a 
+   derrota (fica parada no lugar em vez de jogar)
+-> Quando jogo acaba, bloquear 'Voltar' e 'Avançar'

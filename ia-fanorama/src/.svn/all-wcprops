@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ia-fanorama/!svn/ver/42/ia-fanorama/src
+END
+jogo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ia-fanorama/!svn/ver/42/ia-fanorama/src/jogo.cpp
+END
+interface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ia-fanorama/!svn/ver/40/ia-fanorama/src/interface.cpp
+END
+todo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ia-fanorama/!svn/ver/40/ia-fanorama/src/todo.txt
+END
+posicao.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ia-fanorama/!svn/ver/27/ia-fanorama/src/posicao.h
+END
+jogo.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ia-fanorama/!svn/ver/40/ia-fanorama/src/jogo.h
+END
+interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ia-fanorama/!svn/ver/40/ia-fanorama/src/interface.h
+END
+avaliacoes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ia-fanorama/!svn/ver/40/ia-fanorama/src/avaliacoes.cpp
+END
+voltar.png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ia-fanorama/!svn/ver/11/ia-fanorama/src/voltar.png
+END
+avaliacoes.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ia-fanorama/!svn/ver/40/ia-fanorama/src/avaliacoes.h
+END
+definicoes.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ia-fanorama/!svn/ver/38/ia-fanorama/src/definicoes.h
+END
+avancar.png
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ia-fanorama/!svn/ver/11/ia-fanorama/src/avancar.png
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ia-fanorama/!svn/ver/40/ia-fanorama/src/main.cpp
+END
+tabuleiro.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ia-fanorama/!svn/ver/26/ia-fanorama/src/tabuleiro.cpp
+END
+tabuleiro.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ia-fanorama/!svn/ver/21/ia-fanorama/src/tabuleiro.png
+END
+tabuleiro.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ia-fanorama/!svn/ver/26/ia-fanorama/src/tabuleiro.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ia-fanorama/!svn/ver/25/ia-fanorama/src/Makefile
+END
+posicao.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ia-fanorama/!svn/ver/36/ia-fanorama/src/posicao.cpp
+END
